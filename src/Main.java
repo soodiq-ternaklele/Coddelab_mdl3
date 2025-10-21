@@ -10,6 +10,7 @@ public class Main { ;
         String name =input.nextLine();
         System.out.println("Masukan usia : ");
         int age = input.nextInt();
+        System.out.println("=====");
 
         System.out.println("===Data diri===");
         System.out.println("Nama : " + name);
